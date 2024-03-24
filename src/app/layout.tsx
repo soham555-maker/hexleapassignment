@@ -6,6 +6,7 @@ import Navbar from "../../Components/Navbar/Navbar";
 export const metadata: Metadata = {
   title: "Hexleap Assignment",
   description: "This is my frontend assignment for Hexleap",
+  icons: "/image.png",
 };
 
 export default function RootLayout({
